@@ -7,6 +7,7 @@
 #include <linux/slab.h>
 #include <linux/spinlock.h>
 #include <linux/kallsyms.h>
+#include <linux/task_work.h>
 #include <linux/kprobes.h>
 #include <linux/version.h>
 
